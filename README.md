@@ -47,3 +47,6 @@ Rekomendasi
 5. Pelatihan dan Pengembangan Tim Penjualan:
 - Sediakan pelatihan berkala untuk tim penjualan mengenai strategi penjualan yang efektif, negosiasi, dan penggunaan data untuk penjualan.
 - Motivasi tim penjualan dengan insentif yang dihubungkan langsung dengan pencapaian target yang berorientasi keuntungan.
+
+# Access To Tableu
+https://public.tableau.com/app/profile/banu.baskara.devar/viz/SaaSSalesDashboard_17140584287920/Home?publish=yes
