@@ -7,7 +7,7 @@ Faktor-faktor seperti pengaruh diskon, pengaruh segmentasi, pengaruh region, dan
 Pernyataan Masalah
 Tujuan dari analisis ini adalah untuk mengetahui:
 1. Bagaimana Tren Penjualan dan Keuntungan?
-2. Siapa Customer Paling Berharga?
+2. Siapa perilaku konsumen berdasarkan RFM Analysis?
 3. Faktor Apa Saja Yang Mempengaruhi Keuntungan?
 
 Kesimpulan
